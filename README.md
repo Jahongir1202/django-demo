@@ -1,1 +1,3 @@
-# django-demo
+# Django Demo Application
+
+## About
